@@ -18,18 +18,6 @@ Desenvolvimento de um site de notícias Geek com uma arquitetura RESTful API, ut
 - Vite
 - TypeScript
 
-#### QA
-
-- Jest
-- Testing-library
-
-### Demonstração
-
-Você pode visualizar o projeto através deste link: <br/>
-<a href="https://mundogeek.marcoswolf.com.br">https://mundogeek.marcoswolf.com.br</a>
-
-PS: Caso estiver demorando para carregar, aguarde alguns segundos enquanto o Render inicia o serviço da API.
-
 ## Banco de Dados
 
 [![](https://mermaid.ink/img/pako:eNqFUt1qgzAUfhXJ7doXkN1YDRrwB2q8GAgjaFbDqpYkjpWu776YGNTNboLm5PsznJwbqPqaAhdUZyJEwMiJk7bsHPVceiGF8_y13-vyVZKT-MWQQTY9X-Ku88Q6qWsULPWK-CC8agjXAEY4hmvfks6Lwz8K38MwzI4vjxU4KpJD6qF4-3hegaPsuOZqIqlkLdVAoP6wpiX9NF4_SzFM8XZwDn2MsvSHlXVXK4hQGMXqVf5ZpBtsurputSYetHXJqdJS5jvHbKsm1LZMbVMvgfZMq6udNlOG2dmYmbNJBjFhfylQ4oUQ7EBLeUtYrcbwNhpKIBva0hK4qqwJfy9B2d2VTrn6_NpVwJV8oDswXMb7mqYWuG_kLBRKayZ7nkxzPS73b8Iq9Js?type=png)](https://mermaid.live/edit#pako:eNqFUt1qgzAUfhXJ7doXkN1YDRrwB2q8GAgjaFbDqpYkjpWu776YGNTNboLm5PsznJwbqPqaAhdUZyJEwMiJk7bsHPVceiGF8_y13-vyVZKT-MWQQTY9X-Ku88Q6qWsULPWK-CC8agjXAEY4hmvfks6Lwz8K38MwzI4vjxU4KpJD6qF4-3hegaPsuOZqIqlkLdVAoP6wpiX9NF4_SzFM8XZwDn2MsvSHlXVXK4hQGMXqVf5ZpBtsurputSYetHXJqdJS5jvHbKsm1LZMbVMvgfZMq6udNlOG2dmYmbNJBjFhfylQ4oUQ7EBLeUtYrcbwNhpKIBva0hK4qqwJfy9B2d2VTrn6_NpVwJV8oDswXMb7mqYWuG_kLBRKayZ7nkxzPS73b8Iq9Js)
@@ -49,10 +37,6 @@ PS: Caso estiver demorando para carregar, aguarde alguns segundos enquanto o Ren
 - [x] Contador de Visualizações por Post 
 - [x] Listagem de posts relacionados
 - [x] Motor de busca
-
-### QA
-- [X] Implementação de testes com Jest e Testing-library
-- [X] Testes com Selenium WebDriver
 
 ## Layout
 
@@ -74,13 +58,11 @@ PS: Caso estiver demorando para carregar, aguarde alguns segundos enquanto o Ren
  
 ## Autor
 
-<a href="https://www.marcoswolf.com.br/">
 <img style="width:100px" src="https://avatars.githubusercontent.com/u/26293082?v=4" alt=""/>
 <br />    
-</a>
 Marcos Vinícios
 
 <div>
-<a href="mailto:contato@marcoswolf.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:viniciosramos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/marcoswolf/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
